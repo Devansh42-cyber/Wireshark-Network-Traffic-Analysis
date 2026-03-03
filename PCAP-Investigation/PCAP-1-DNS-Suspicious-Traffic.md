@@ -30,13 +30,15 @@ TCP:
 ## 🔎 Observations
 
 ### DNS Traffic
+<img width="1843" height="507" alt="dns" src="https://github.com/user-attachments/assets/4b4453a6-1116-4a45-bb5d-4dcf11553ddb" />
 
 
 ### HTTP Traffic
-
+<img width="1337" height="330" alt="http" src="https://github.com/user-attachments/assets/37a0a014-4d72-4d0f-9a03-36ba1ba9eede" />
 
 
 ### TCP Behavior
+<img width="1706" height="896" alt="tcp" src="https://github.com/user-attachments/assets/297e665f-b60b-4c27-be9a-87600dd716ff" />
 
 
 
@@ -51,6 +53,7 @@ Traffic appears normal and consistent with standard web browsing activity.
 ---
 
 ## ✅ Conclusion
+
 
 
 
