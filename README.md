@@ -6,8 +6,6 @@ This repository documents hands-on packet analysis using Wireshark from a blue-t
 
 The focus is on inspecting real network traffic, understanding protocol behavior at packet level, and identifying suspicious or abnormal activity through PCAP investigations.
 
-Networking theory (OSI, TCP/IP, ports, etc.) is covered separately. This repository emphasizes practical packet-level analysis.
-
 ---
 
 ## 🎯 Objectives
