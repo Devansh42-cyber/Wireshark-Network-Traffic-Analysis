@@ -1,10 +1,8 @@
-# Suspicious Indicators in DNS, HTTP, and TCP Traffic
+# Suspicious Indicators 
 
 ## 📌 Purpose
 
 This document outlines behavioral indicators that may suggest malicious or abnormal activity when analyzing network traffic using Wireshark.
-
-The focus is on DNS, HTTP, and TCP protocols from a SOC / blue-team perspective.
 
 ---
 
@@ -112,15 +110,3 @@ Filter: tcp.flags.reset == 1
 
 ---
 
-# 🧠 Analyst Reminder
-
-Suspicious behavior is not defined by a single packet, but by patterns and context.
-
-When analyzing traffic, always ask:
-
-- Is this expected?
-- Is the frequency normal?
-- Is the destination legitimate?
-- Does this behavior align with standard application usage?
-
-Understanding normal traffic behavior is essential before identifying anomalies.
