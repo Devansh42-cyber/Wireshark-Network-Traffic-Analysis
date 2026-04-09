@@ -58,14 +58,4 @@ The goal is to simulate real-world network investigation scenarios.
 
 ---
 
-## 🧠 SOC Relevance
 
-Packet-level visibility is critical for:
-
-- Detecting reconnaissance activity
-- Identifying brute-force attempts
-- Recognizing suspicious outbound connections
-- Investigating potential C2 communication
-- Supporting incident response workflows
-
-This repository builds foundational skills required for SOC and blue-team roles.
